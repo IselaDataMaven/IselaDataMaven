@@ -1,4 +1,4 @@
-![Mi Banner](https://<Enlace a la imagen que quieras usar>)
+
 
 <img width="2560" height="1440" alt="Banner para YouTube Tecnología Moderno Azul (3)" src="https://github.com/user-attachments/assets/2a82bc6f-1895-49e8-935a-bc2c7b660701" />
 
