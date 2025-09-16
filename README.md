@@ -24,13 +24,12 @@ I am currently focused on data analysis and creating machine learning models. I 
 
 ### 📊 My Recent Projects
 
-* [Project Name 1](<Link to Repository>): <Brief description of the project>.
-* [Project Name 2](<Link to Repository>): <Brief description of the project>.
-* [Logistic Regression Project](<Link to your Repository>): A predictive model to analyze e-commerce customers and predict their purchasing behavior.
+* 😄😢 Text Sentiment Recognition Challenge 😠😲](<https://github.com/IselaDataMaven/TextSentiment.git>):This challenge aims to improve sentiment analysis technologies, which are vital for customer service, social media monitoring, and various applications in AI-driven analytics, using the Sentiment140 Dataset.
+* [-Zombie-Survival-Simulator-in-Python](<https://github.com/IselaDataMaven/-Simulador-de-Supervivencia-Zombie-en-Python.git>):Welcome to the apocalypse! This is a short Python exercise where you simulate a zombie emergency situation and make key decisions to survive. Ideal for practicing basic logic, conditionals, lists, and dictionaries in Python.
+* [Logistic Regression Project - E-commerce Customer Analysis](<https://github.com/IselaDataMaven/logistic_regression_e-commerce.git>): A predictive model to analyze e-commerce customers and predict their purchasing behavior.
 
 
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iseladatamaven/>)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lahechiceradelcodigo>)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lahechiceradelcodigo>)
+
