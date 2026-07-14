@@ -412,3 +412,43 @@ status:        🟢 ACTIVE
 </div>
 
 <br/>
+
+## 🧪 11 · AI Lab
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  AI LAB — EXPERIMENTAL BRANCH                                  │
+│  Estado: sandbox / research-only · no producción                │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+| Experimento | Categoría | Estado |
+|:--|:--:|:--:|
+| <!-- AI_LAB_EXPERIMENTO_1 --> | Agentic AI | 🧪 Research |
+| <!-- AI_LAB_EXPERIMENTO_2 --> | Computer Vision | 🧪 Research |
+| <!-- AI_LAB_EXPERIMENTO_3 --> | RAG / Retrieval | 🧪 Research |
+
+</div>
+
+> 🔬 Espacio reservado para experimentos, notebooks y pruebas de concepto reales. Sustituye los marcadores con tus proyectos del AI Lab.
+
+**Convención sugerida para el repositorio del AI Lab**
+
+```text
+ai-lab/
+├── experiments/
+│   ├── 001-agentic-retrieval/
+│   ├── 002-vision-pipeline/
+│   └── 003-rag-benchmark/
+├── notebooks/
+└── README.md   → índice de experimentos con estado y hallazgos
+```
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- SECCIÓN 12 · ECOSYSTEM                                        -->
+<!-- Diagrama ASCII del ecosistema de marca personal / proyectos   -->
+<!-- ============================================================ -->
