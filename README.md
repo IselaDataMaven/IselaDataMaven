@@ -1,4 +1,6 @@
 
+<img width="1983" height="793" alt="banner_cover" src="https://github.com/user-attachments/assets/6706c874-1448-49f8-827d-180d830d5d12" />
+
   ════════════════════════════════════════════════════════════════════════
 
 
