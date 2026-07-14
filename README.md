@@ -319,7 +319,7 @@ status:        🟢 ACTIVE
 | ![Google](https://img.shields.io/badge/-Google-0d0d0d?style=flat-square&logo=google&logoColor=4285F4) | Engineer AI Agents with Agent Development Kit (ADK) | ✅ |
 | ![IBM](https://img.shields.io/badge/-IBM-0d0d0d?style=flat-square&logo=ibm&logoColor=052FAD) | Fundamentos de Inteligencia Artificial / Guayerd | ✅ |
 | ![Oracle](https://img.shields.io/badge/-Oracle-0d0d0d?style=flat-square&logo=oracle&logoColor=F80000) | Oracle Cloud Oracle Certified Foundations Associate Certificate of Recognition | ✅ |
-| ![AWS]![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)) | AWS Cloud Practitioner Essentials > | ✅ |
+| ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)) | AWS Cloud Practitioner Essentials > | ✅ |
 | ![Cisco](https://img.shields.io/badge/-Cisco-0d0d0d?style=flat-square&logo=cisco&logoColor=1BA0D7) | Ethical Hacker | ✅ |
 
 </div>
@@ -402,6 +402,33 @@ status:        🟢 ACTIVE
 </tr>
 </table>
 
-> 🧩 Para añadir más proyectos, copia cualquiera de los bloques `<table>` anteriores y actualiza sus marcadores.
+<br/>
+
+## 🖥️ 10 · Mission Control
+
+<img src="./assets/mission-control_svg.svg" alt="Mission Control Panel" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00E5FF&icon_color=B388FF&text_color=c9c3e0" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00E5FF&text_color=c9c3e0" alt="Top Languages" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=00E5FF&fire=B388FF&currStreakLabel=00E5FF" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+
+<br/>
+
+<!-- Snake Animation — generado automáticamente por GitHub Actions -->
+<!-- Ver Sección "snake.yml" para el workflow que lo genera -->
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+
+</div>
 
 <br/>
