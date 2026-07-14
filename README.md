@@ -1,12 +1,23 @@
-
-<img width="1983" height="793" alt="banner_cover" src="https://github.com/user-attachments/assets/d90eeb1b-e530-47ab-bbfe-7e04d9d1fbf1" />
-
 <!--
   ════════════════════════════════════════════════════════════════════════
   EiAnstein OS — GitHub Profile README
   ────────────────────────────────────────────────────────────────────────
   Autor: Isela
   Descripción: README interactivo estilo "sistema operativo de IA".
+  Compatibilidad: 100% GitHub Flavored Markdown + HTML permitido por GitHub.
+  Sin JavaScript. Sin frameworks. Sin dependencias externas de build.
+
+  VARIANTE: HERO ESTÁTICO
+  Este archivo usa assets/banner_cover.png como imagen principal del Hero
+  Banner (Sección 1) en lugar del banner_svg.svg animado. El resto del
+  sistema es idéntico a README.md. Si prefieres el hero animado, usa
+  README.md en su lugar.
+
+  INSTRUCCIONES RÁPIDAS:
+  1. Reemplaza todas las apariciones de "USERNAME" por tu usuario real de GitHub.
+  2. Coloca los archivos de /assets en la raíz de tu repo "USERNAME/USERNAME".
+  3. Reemplaza los marcadores <!-- PROJECT_X_... --> con tus proyectos reales.
+  4. Activa el workflow .github/workflows/snake.yml (ver Sección 10).
   ════════════════════════════════════════════════════════════════════════
 -->
 
@@ -14,15 +25,13 @@
 
 <!-- ============================================================ -->
 <!-- SECCIÓN 1 · HERO BANNER (VERSIÓN ESTÁTICA)                    -->
-<img width="5000" height="1250" alt="banner_svg" src="https://github.com/user-attachments/assets/393c7191-4f57-4793-9291-e749f0d44f2d" />
-
+<!-- Banner PNG fijo — alternativa sin animación al banner_svg.svg -->
 <!-- ============================================================ -->
 
-
+<img src="./assets/banner_cover.png" alt="EiAnstein OS Banner" width="100%"/>
 
 <!-- Typing SVG animado — texto rotativo estilo terminal de IA -->
-<img width="5000" height="1250" alt="banner_svg" src="https://github.com/user-attachments/assets/a098c196-ea52-4218-b1f4-f60a23b40bbb" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Booting+EiAnstein+OS...;Loading+Neural+Modules...;Initializing+AI+Engineer+Profile...;System+Status%3A+ONLINE;Welcome%2C+Recruiter." alt="Typing SVG"/>
 
 <br/>
 
@@ -111,7 +120,7 @@ SYSTEM READY. Type 'whoami' to continue.
 </div>
 
 ```bash
-<a href="[https://google.com](https://www.linkedin.com/in/iselalgarcia/)">Linkedin</a>
+isela@eianstein-os:~$ whoami
 ```
 
 ```yaml
