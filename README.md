@@ -454,3 +454,27 @@ status:        🟢 ACTIVE
 ```
 
 <br/>
+
+## 🗓️ 13 · Timeline
+
+```mermaid
+gantt
+    title EiAnstein OS — Roadmap 2025 - 2027
+    dateFormat  YYYY-MM
+    axisFormat  %Y
+
+    section 2025
+    Fundamentos AI/ML consolidados        :done,    t1, 2025-01, 2025-12
+    Certificaciones cloud & AI            :done,    t2, 2025-03, 2025-11
+
+    section 2026
+    Sistemas agentic (LangChain/LangGraph) :active, t3, 2026-01, 2026-08
+    Integración MCP en producción          :active, t4, 2026-04, 2026-12
+    Publicación AI Lab v1                  :         t5, 2026-06, 2026-10
+
+    section 2027
+    Multi-agent orchestration a escala     :         t6, 2027-01, 2027-06
+    Investigación aplicada & publicaciones :         t7, 2027-01, 2027-12
+```
+
+<br/>
