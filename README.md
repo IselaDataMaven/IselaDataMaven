@@ -175,4 +175,29 @@ Selecciona una opción [1-4]:
 
 <br/>
 
+## 🎯 5 · Current Mission
 
+<table width="100%">
+<tr>
+<td>
+
+```yaml
+mission:       "Deploy Agentic AI Systems at Scale"
+version:       v2.4.0-beta
+progress:      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  58%
+next_release:  v2.5.0 — "Multi-Agent Orchestration"
+eta:           Q4 2026
+roadmap:
+  - [x] Diseño de arquitectura base de agentes
+  - [x] Integración de MCP (Model Context Protocol)
+  - [ ] Orquestación multi-agente con LangGraph
+  - [ ] Observabilidad y trazabilidad de agentes
+  - [ ] Publicación de caso de estudio técnico
+status:        🟢 ACTIVE
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
