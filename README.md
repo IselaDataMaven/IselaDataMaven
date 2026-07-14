@@ -14,7 +14,6 @@
 
 <!-- ============================================================ -->
 <!-- SECCIÓN 1 · HERO BANNER (VERSIÓN ESTÁTICA)                    -->
-<!-- Banner PNG fijo — alternativa sin animación al banner_svg.svg -->
 <img width="5000" height="1250" alt="banner_svg" src="https://github.com/user-attachments/assets/393c7191-4f57-4793-9291-e749f0d44f2d" />
 
 <!-- ============================================================ -->
