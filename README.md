@@ -316,7 +316,7 @@ status:        🟢 ACTIVE
 
 | Emisor | Certificación | Estado |
 |:--|:--|:--:|
-| ![Google](https://me.developers.google.com/u/me) | <!-- NOMBRE_CERTIFICACIÓN_GOOGLE --> | ✅ |
+| ![Google](https://www.credly.com/badges/602ae4f9-5798-409f-a352-dd3b2f1bab52/public_url) | Engineer AI Agents with Agent Development Kit (ADK) | ✅ |
 | ![IBM](https://img.shields.io/badge/-IBM-0d0d0d?style=flat-square&logo=ibm&logoColor=052FAD) | <!-- NOMBRE_CERTIFICACIÓN_IBM --> | ✅ |
 | ![Oracle](https://img.shields.io/badge/-Oracle-0d0d0d?style=flat-square&logo=oracle&logoColor=F80000) | <!-- NOMBRE_CERTIFICACIÓN_ORACLE --> | ✅ |
 | ![Microsoft](https://img.shields.io/badge/-Microsoft-0d0d0d?style=flat-square&logo=microsoft&logoColor=5E5E5E) | <!-- NOMBRE_CERTIFICACIÓN_MICROSOFT --> | ✅ |
