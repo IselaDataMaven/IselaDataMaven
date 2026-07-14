@@ -309,3 +309,18 @@ status:        🟢 ACTIVE
 </div>
 
 <br/>
+
+## 🎓 8 · Certificaciones
+
+<div align="center">
+
+| Emisor | Certificación | Estado |
+|:--|:--|:--:|
+| ![Google](https://img.shields.io/badge/-Google-0d0d0d?style=flat-square&logo=google&logoColor=4285F4) | <!-- NOMBRE_CERTIFICACIÓN_GOOGLE --> | ✅ |
+| ![IBM](https://img.shields.io/badge/-IBM-0d0d0d?style=flat-square&logo=ibm&logoColor=052FAD) | <!-- NOMBRE_CERTIFICACIÓN_IBM --> | ✅ |
+| ![Oracle](https://img.shields.io/badge/-Oracle-0d0d0d?style=flat-square&logo=oracle&logoColor=F80000) | <!-- NOMBRE_CERTIFICACIÓN_ORACLE --> | ✅ |
+| ![Microsoft](https://img.shields.io/badge/-Microsoft-0d0d0d?style=flat-square&logo=microsoft&logoColor=5E5E5E) | <!-- NOMBRE_CERTIFICACIÓN_MICROSOFT --> | ✅ |
+| ![Cisco](https://img.shields.io/badge/-Cisco-0d0d0d?style=flat-square&logo=cisco&logoColor=1BA0D7) | <!-- NOMBRE_CERTIFICACIÓN_CISCO --> | ✅ |
+| <!-- LOGO_EMISOR_ADICIONAL --> | <!-- NOMBRE_CERTIFICACIÓN_ADICIONAL --> | ⏳ |
+
+</div>
