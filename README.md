@@ -101,6 +101,66 @@ SYSTEM READY. Type 'whoami' to continue.
 
 ## 💻 2 · Introducción · `whoami`
 
+<div align="center">
 <img width="150" height="150" alt="mascot_svg" src="https://github.com/user-attachments/assets/4e294dd4-6640-4c24-8e94-95312604bca1" />
+</div>
 
 
+---------
+---------
+
+```yaml
+user:        Isela
+role:        Ingeniera de Software · AI Engineer
+focus:       Sistemas de Inteligencia Artificial & Redes Neuronales Aplicadas
+core_stack:  Python · FastAPI · LangChain · LangGraph · MCP · LLMs
+mission:     Diseñar e implementar sistemas de IA robustos, explicables
+             y listos para producción — desde el modelo hasta la
+             experiencia del usuario final.
+status:      ● ONLINE — Open to new opportunities
+```
+
+```bash
+isela@eianstein-os:~$ echo "Construyendo inteligencia artificial con propósito."
+> Construyendo inteligencia artificial con propósito.
+```
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- SECCIÓN 3 · RECRUITER MODE                                    -->
+<!-- Terminal interactiva simulada con menú de navegación          -->
+<!-- ============================================================ -->
+
+## 🛰️ 3 · Recruiter Mode
+
+<details>
+<summary><b>▶ Ejecutar <code>recruiter_mode.sh</code></b> — haz clic para desplegar el menú interactivo</summary>
+
+<br/>
+
+```bash
+isela@eianstein-os:~$ ./recruiter_mode.sh
+
+┌──────────────────────────────────────────────┐
+│           EiAnstein OS · MAIN MENU            │
+├──────────────────────────────────────────────┤
+│  [1] Projects   → Ver proyectos destacados    │
+│  [2] Resume     → Descargar CV / Portfolio    │
+│  [3] AI Lab     → Explorar experimentos de IA │
+│  [4] Contact    → Canales de contacto directo │
+└──────────────────────────────────────────────┘
+
+Selecciona una opción [1-4]:
+```
+
+| Opción | Comando | Acceso directo |
+|:---:|:---|:---|
+| `1` | Projects | [→ Ir a Featured Projects](#-9--featured-projects) |
+| `2` | Resume | [→ Descargar Resume](#-16--contacto) |
+| `3` | AI Lab | [→ Ir a AI Lab](#-11--ai-lab) |
+| `4` | Contact | [→ Ir a Contacto](#-16--contacto) |
+
+</details>
+
+<br/>
