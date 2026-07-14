@@ -201,3 +201,111 @@ status:        🟢 ACTIVE
 </table>
 
 <br/>
+
+## 🌳 6 · Skill Tree
+
+```text
+                          ┌────────────────────────┐
+                          │      SKILL TREE          │
+                          │   EiAnstein OS v2.4.0     │
+                          └────────────┬─────────────┘
+                                       │
+   ══════════════════════════════ TIER 1 ══════════════════════════════
+   FOUNDATIONS
+   │
+   ├── [🟢 UNLOCKED]    Python              ▓▓▓▓▓▓▓▓▓▓  100%
+   ├── [🟢 UNLOCKED]    Docker              ▓▓▓▓▓▓▓▓░░   85%
+   └── [🟢 UNLOCKED]    Oracle Cloud        ▓▓▓▓▓▓▓░░░   70%
+                                       │
+   ══════════════════════════════ TIER 2 ══════════════════════════════
+   AI ENGINEERING
+   │
+   ├── [🟢 UNLOCKED]    Machine Learning    ▓▓▓▓▓▓▓▓▓░   90%
+   ├── [🟢 UNLOCKED]    FastAPI             ▓▓▓▓▓▓▓▓▓░   90%
+   ├── [🟡 IN PROGRESS] Computer Vision     ▓▓▓▓▓░░░░░   50%
+   └── [🟡 IN PROGRESS] LLMs                ▓▓▓▓▓▓░░░░   60%
+                                       │
+   ══════════════════════════════ TIER 3 ══════════════════════════════
+   AGENTIC SYSTEMS  (requiere Tier 2 completo)
+   │
+   ├── [🟡 IN PROGRESS] LangChain           ▓▓▓▓▓▓░░░░   60%
+   ├── [🟡 IN PROGRESS] LangGraph           ▓▓▓▓░░░░░░   40%
+   └── [🔴 LOCKED]       MCP                 ░░░░░░░░░░  0% — requiere LangGraph ≥ 70%
+```
+
+<br/>
+
+<div align="center">
+
+| Skill | Estado | Nivel |
+|:--|:--:|:--|
+| 🐍 Python | 🟢 Unlocked | `██████████` 100% |
+| 🐳 Docker | 🟢 Unlocked | `████████░░` 85% |
+| ☁️ Oracle Cloud | 🟢 Unlocked | `███████░░░` 70% |
+| 🤖 Machine Learning | 🟢 Unlocked | `█████████░` 90% |
+| ⚡ FastAPI | 🟢 Unlocked | `█████████░` 90% |
+| 👁️ Computer Vision | 🟡 In Progress | `█████░░░░░` 50% |
+| 🧠 LLMs | 🟡 In Progress | `██████░░░░` 60% |
+| 🔗 LangChain | 🟡 In Progress | `██████░░░░` 60% |
+| 🕸️ LangGraph | 🟡 In Progress | `████░░░░░░` 40% |
+| 🔌 MCP | 🔴 Locked | `░░░░░░░░░░` — |
+
+</div>
+
+<br/>
+
+**Leyenda de estados**
+
+| Símbolo | Estado | Significado |
+|:--:|:--|:--|
+| 🟢 | `UNLOCKED` | Dominio consolidado, aplicado en proyectos productivos |
+| 🟡 | `IN PROGRESS` | Aprendizaje activo, aplicado en proyectos experimentales |
+| 🔴 | `LOCKED` | Pendiente de desbloquear — requiere completar prerequisitos del tier anterior |
+
+<br/>
+
+## 🧩 7 · Tecnologías
+
+<div align="center">
+
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+
+**IA / Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+
+**Agentic AI / LLMOps**
+
+![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d0d0d?style=for-the-badge&logo=graphql&logoColor=B388FF)
+![MCP](https://img.shields.io/badge/MCP_Protocol-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=00E5FF)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-0d0d0d?style=for-the-badge&logo=django&logoColor=092E20)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
+**Infraestructura & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d0d0d?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+**Datos**
+
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=013243)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+</div>
+
+<br/>
