@@ -10,7 +10,7 @@
 <!-- Banner PNG fijo — alternativa sin animación al banner_svg.svg -->
 <!-- ============================================================ -->
 
-
+<br/>
 
 <img width="5000" height="1250" alt="banner_svg" src="https://github.com/user-attachments/assets/72c214cd-050e-4e0e-9428-ba0805785ab6" />
 
