@@ -432,23 +432,25 @@ status:        🟢 ACTIVE
 
 </div>
 
-> 🔬 Espacio reservado para experimentos, notebooks y pruebas de concepto reales. Sustituye los marcadores con tus proyectos del AI Lab.
-
-**Convención sugerida para el repositorio del AI Lab**
+## 🌐 12 · Ecosystem
 
 ```text
-ai-lab/
-├── experiments/
-│   ├── 001-agentic-retrieval/
-│   ├── 002-vision-pipeline/
-│   └── 003-rag-benchmark/
-├── notebooks/
-└── README.md   → índice de experimentos con estado y hallazgos
+                             ┌───────────────────────────┐
+                             │        EiAnstein OS         │
+                             │   (Core Identity / AI Hub)  │
+                             └──────────────┬───────────────┘
+              ┌───────────────┬─────────────┼─────────────┬────────────────┐
+              │               │             │             │                │
+       ┌──────▼──────┐ ┌──────▼──────┐┌─────▼─────┐┌──────▼──────┐ ┌───────▼───────┐
+       │  Portfolio   │ │   CorpIA     ││  AI Lab    ││  Research   │ │    GitHub      │
+       │  (web site)  │ │ (producto IA)││(experimentos)│(publicaciones)│ (código fuente) │
+       └──────────────┘ └──────────────┘└────────────┘└─────────────┘ └───────┬────────┘
+                                                                                │
+                                                              ┌─────────────────┴────────────────┐
+                                                        ┌──────▼──────┐                  ┌─────────▼────────┐
+                                                        │   YouTube    │                  │      Medium       │
+                                                        │  (video/demo)│                  │ (artículos técnicos)│
+                                                        └──────────────┘                  └───────────────────┘
 ```
 
 <br/>
-
-<!-- ============================================================ -->
-<!-- SECCIÓN 12 · ECOSYSTEM                                        -->
-<!-- Diagrama ASCII del ecosistema de marca personal / proyectos   -->
-<!-- ============================================================ -->
