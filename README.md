@@ -102,23 +102,7 @@ SYSTEM READY. Type 'whoami' to continue.
 ## 💻 2 · Introducción · `whoami`
 
 <div align="center">
-  ![Uploading mascot_s<svg viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="mBg" cx="50%" cy="45%" r="60%">
-      <stop offset="0%" stop-color="#1a1030"/>
-      <stop offset="100%" stop-color="#050308"/>
-    </radialGradient>
-    <linearGradient id="mFrame" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#B388FF"/>
-      <stop offset="100%" stop-color="#00E5FF"/>
-    </linearGradient>
-    <filter id="mGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <circle cx="160" cy="160" r="155" fill="url(#mBg)" stroke="url(#mFrame)" stroke-width="3"/>
+  
 
   <!-- orbit rings -->
   <circle cx="160" cy="160" r="128" fill="none" stroke="#00E5FF" stroke-width="1" stroke-dasharray="3 12" opacity="0.5">
