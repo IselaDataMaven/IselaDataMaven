@@ -110,7 +110,7 @@ SYSTEM READY. Type 'whoami' to continue.
 </div>
 
 ```bash
-isela@eianstein-os:~$ whoami
+<a href="[https://google.com](https://www.linkedin.com/in/iselalgarcia/)">Linkedin</a>
 ```
 
 ```yaml
