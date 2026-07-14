@@ -478,3 +478,31 @@ gantt
 ```
 
 <br/>
+
+
+## ⌨️ 14 · Terminal Commands
+
+```bash
+isela@eianstein-os:~$ help
+
+Comandos disponibles:
+
+  help        → Muestra esta lista de comandos
+  projects    → Lista los proyectos destacados
+  skills      → Muestra el skill tree completo
+  resume      → Genera enlace de descarga del CV
+  linkedin    → Abre el perfil de LinkedIn
+  github      → Abre el perfil de GitHub
+  exit        → Cierra la sesión de terminal
+
+isela@eianstein-os:~$ projects
+> Redirigiendo a Sección 9 · Featured Projects...
+
+isela@eianstein-os:~$ skills
+> Redirigiendo a Sección 6 · Skill Tree...
+
+isela@eianstein-os:~$ exit
+> Gracias por visitar EiAnstein OS. Conexión finalizada.
+```
+
+<br/>
