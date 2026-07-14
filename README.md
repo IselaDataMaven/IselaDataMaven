@@ -405,9 +405,9 @@ status:        🟢 ACTIVE
 <br/>
 
 ## 🖥️ 10 · Mission Control
-
-<img width="300" height="120" alt="mission-control_svg" src="https://github.com/user-attachments/assets/e821da6b-ef7c-4ba4-b71a-4e90b9a8b758" />
-
+<div align="center">
+<img width="300" height="100%" alt="mission-control_svg" src="https://github.com/user-attachments/assets/e821da6b-ef7c-4ba4-b71a-4e90b9a8b758" />
+</div>
 
 </div>
 
