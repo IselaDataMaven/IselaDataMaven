@@ -9,8 +9,10 @@
 <!-- SECCIÓN 1 · HERO BANNER (VERSIÓN ESTÁTICA)                    -->
 <!-- Banner PNG fijo — alternativa sin animación al banner_svg.svg -->
 <!-- ============================================================ -->
+<br>
 
-<img src="./assets/banner_cover.png" alt="EiAnstein OS Banner" width="100%"/>
+<img width="5000" height="1250" alt="banner_svg" src="https://github.com/user-attachments/assets/72c214cd-050e-4e0e-9428-ba0805785ab6" />
+
 
 <!-- Typing SVG animado — texto rotativo estilo terminal de IA -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Booting+EiAnstein+OS...;Loading+Neural+Modules...;Initializing+AI+Engineer+Profile...;System+Status%3A+ONLINE;Welcome%2C+Recruiter." alt="Typing SVG"/>
