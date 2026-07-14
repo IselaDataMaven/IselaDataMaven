@@ -164,3 +164,15 @@ Selecciona una opción [1-4]:
 </details>
 
 <br/>
+
+## 📡 4 · Mission Brief
+
+> - 🧠 Ingeniera de Software especializada en el diseño y despliegue de sistemas de Inteligencia Artificial de extremo a extremo.
+> - ⚙️ Experiencia construyendo APIs de alto rendimiento y arquitecturas de agentes con LangChain, LangGraph y protocolos MCP.
+> - 🔍 Enfoque en LLMs aplicados a casos de uso reales: automatización, visión por computadora y sistemas de decisión.
+> - ☁️ Despliegue de soluciones de IA en infraestructura cloud (Oracle Cloud, contenedores Docker).
+> - 🎯 Orientada a resultados medibles, código mantenible y experiencias de producto centradas en el usuario.
+
+<br/>
+
+
