@@ -1,4 +1,4 @@
-![Uploading banner_svg.svg…]()
+
 <img width="1983" height="793" alt="banner_cover" src="https://github.com/user-attachments/assets/d90eeb1b-e530-47ab-bbfe-7e04d9d1fbf1" />
 
 <!--
@@ -7,20 +7,6 @@
   ────────────────────────────────────────────────────────────────────────
   Autor: Isela
   Descripción: README interactivo estilo "sistema operativo de IA".
-  Compatibilidad: 100% GitHub Flavored Markdown + HTML permitido por GitHub.
-  Sin JavaScript. Sin frameworks. Sin dependencias externas de build.
-
-  VARIANTE: HERO ESTÁTICO
-  Este archivo usa assets/banner_cover.png como imagen principal del Hero
-  Banner (Sección 1) en lugar del banner_svg.svg animado. El resto del
-  sistema es idéntico a README.md. Si prefieres el hero animado, usa
-  README.md en su lugar.
-
-  INSTRUCCIONES RÁPIDAS:
-  1. Reemplaza todas las apariciones de "USERNAME" por tu usuario real de GitHub.
-  2. Coloca los archivos de /assets en la raíz de tu repo "USERNAME/USERNAME".
-  3. Reemplaza los marcadores <!-- PROJECT_X_... --> con tus proyectos reales.
-  4. Activa el workflow .github/workflows/snake.yml (ver Sección 10).
   ════════════════════════════════════════════════════════════════════════
 -->
 
