@@ -480,29 +480,22 @@ gantt
 <br/>
 
 
-## ⌨️ 14 · Terminal Commands
+## 🧭 14 · Engineering Principles
 
-```bash
-isela@eianstein-os:~$ help
+<div align="center">
 
-Comandos disponibles:
+| Principio | Descripción |
+|:--|:--|
+| **Claridad sobre complejidad** | El código y las arquitecturas deben ser entendibles por el siguiente ingeniero, no solo por quien los escribió. |
+| **IA responsable** | Todo sistema de IA debe ser explicable, auditable y consciente de sus límites. |
+| **Producción, no demos** | Un modelo que no puede desplegarse, monitorearse y mantenerse no está terminado. |
+| **Iteración medible** | Cada mejora se valida con métricas, no con intuición. |
+| **Diseño centrado en el usuario** | La tecnología solo importa si resuelve un problema real para alguien. |
+| **Fallar rápido, aprender más rápido** | Los prototipos existen para validar hipótesis, no para impresionar; el aprendizaje del fallo se documenta y se reutiliza. |
+| **Seguridad y ética por diseño** | La privacidad de los datos y el uso responsable de modelos se consideran desde el primer commit, no al final del proyecto. |
 
-  help        → Muestra esta lista de comandos
-  projects    → Lista los proyectos destacados
-  skills      → Muestra el skill tree completo
-  resume      → Genera enlace de descarga del CV
-  linkedin    → Abre el perfil de LinkedIn
-  github      → Abre el perfil de GitHub
-  exit        → Cierra la sesión de terminal
-
-isela@eianstein-os:~$ projects
-> Redirigiendo a Sección 9 · Featured Projects...
-
-isela@eianstein-os:~$ skills
-> Redirigiendo a Sección 6 · Skill Tree...
-
-isela@eianstein-os:~$ exit
-> Gracias por visitar EiAnstein OS. Conexión finalizada.
-```
+</div>
 
 <br/>
+
+
