@@ -18,7 +18,7 @@
 
 <!-- ============================================================ -->
 
-<img src="./assets/banner_cover.png" alt="EiAnstein OS Banner" width="100%"/>
+
 
 <!-- Typing SVG animado — texto rotativo estilo terminal de IA -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Booting+EiAnstein+OS...;Loading+Neural+Modules...;Initializing+AI+Engineer+Profile...;System+Status%3A+ONLINE;Welcome%2C+Recruiter." alt="Typing SVG"/>
