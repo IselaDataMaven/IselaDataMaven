@@ -1,4 +1,3 @@
-<img width="150" height="150" alt="mascot_svg" src="https://github.com/user-attachments/assets/a6b57778-bc83-47a8-bb29-0d7022c425fe" /><img width="1983" height="793" alt="banner_cover" src="https://github.com/user-attachments/assets/927e176e-25ee-4f15-b3db-1f5d3f4973be" />
 
   ════════════════════════════════════════════════════════════════════════
 
