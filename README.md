@@ -321,6 +321,87 @@ status:        🟢 ACTIVE
 | ![Oracle](https://img.shields.io/badge/-Oracle-0d0d0d?style=flat-square&logo=oracle&logoColor=F80000) | Oracle Cloud Oracle Certified Foundations Associate Certificate of Recognition | ✅ |
 | ![AWS]![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)) | AWS Cloud Practitioner Essentials > | ✅ |
 | ![Cisco](https://img.shields.io/badge/-Cisco-0d0d0d?style=flat-square&logo=cisco&logoColor=1BA0D7) | Ethical Hacker | ✅ |
-| <!-- LOGO_EMISOR_ADICIONAL --> | <!-- NOMBRE_CERTIFICACIÓN_ADICIONAL --> | ⏳ |
 
 </div>
+
+## 🚀 9 · Featured Projects
+
+<!-- ─────────────────── PROJECT CARD · 01 ─────────────────── -->
+<table width="100%">
+<tr>
+<td width="160" align="center" valign="top">
+<img src="./assets/projects/project-01.gif" width="140" alt="Preview del proyecto 1"/>
+<br/><sub>Espacio para GIF demo</sub>
+</td>
+<td valign="top">
+
+### 🛰️ <!-- PROJECT_1_NAME -->
+
+| Campo | Detalle |
+|:--|:--|
+| **ID** | `PRJ-001` |
+| **Estado** | ![status](https://img.shields.io/badge/-ACTIVE-39FF14?style=flat-square) |
+| **Arquitectura** | <!-- PROJECT_1_ARCHITECTURE --> |
+| **Tecnologías** | <!-- PROJECT_1_TECH_STACK --> |
+
+<a href="<!-- PROJECT_1_REPO_URL -->"><img src="https://img.shields.io/badge/-Open%20Project-8A63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────── PROJECT CARD · 02 ─────────────────── -->
+<table width="100%">
+<tr>
+<td width="160" align="center" valign="top">
+<img src="./assets/projects/project-02.gif" width="140" alt="Preview del proyecto 2"/>
+<br/><sub>Espacio para GIF demo</sub>
+</td>
+<td valign="top">
+
+### 🧠 <!-- PROJECT_2_NAME -->
+
+| Campo | Detalle |
+|:--|:--|
+| **ID** | `PRJ-002` |
+| **Estado** | ![status](https://img.shields.io/badge/-IN%20DEVELOPMENT-FFD600?style=flat-square) |
+| **Arquitectura** | <!-- PROJECT_2_ARCHITECTURE --> |
+| **Tecnologías** | <!-- PROJECT_2_TECH_STACK --> |
+
+<a href="<!-- PROJECT_2_REPO_URL -->"><img src="https://img.shields.io/badge/-Open%20Project-8A63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────── PROJECT CARD · 03 ─────────────────── -->
+<table width="100%">
+<tr>
+<td width="160" align="center" valign="top">
+<img src="./assets/projects/project-03.gif" width="140" alt="Preview del proyecto 3"/>
+<br/><sub>Espacio para GIF demo</sub>
+</td>
+<td valign="top">
+
+### 👁️ <!-- PROJECT_3_NAME -->
+
+| Campo | Detalle |
+|:--|:--|
+| **ID** | `PRJ-003` |
+| **Estado** | ![status](https://img.shields.io/badge/-ARCHIVED-8A63FF?style=flat-square) |
+| **Arquitectura** | <!-- PROJECT_3_ARCHITECTURE --> |
+| **Tecnologías** | <!-- PROJECT_3_TECH_STACK --> |
+
+<a href="<!-- PROJECT_3_REPO_URL -->"><img src="https://img.shields.io/badge/-Open%20Project-8A63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+> 🧩 Para añadir más proyectos, copia cualquiera de los bloques `<table>` anteriores y actualiza sus marcadores.
+
+<br/>
