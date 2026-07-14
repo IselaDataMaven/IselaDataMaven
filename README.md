@@ -406,28 +406,75 @@ status:        🟢 ACTIVE
 
 ## 🖥️ 10 · Mission Control
 
-<img src="./assets/mission-control_svg.svg" alt="Mission Control Panel" width="100%"/>
+<img width="300" height="120" alt="mission-control_svg" src="https://github.com/user-attachments/assets/e821da6b-ef7c-4ba4-b71a-4e90b9a8b758" />
 
-<br/>
+<svg viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mcBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070410"/>
+      <stop offset="100%" stop-color="#120a24"/>
+    </linearGradient>
+    <linearGradient id="mcFrame" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#B388FF"/>
+    </linearGradient>
+    <filter id="mcGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
-<div align="center">
+  <rect width="1000" height="400" rx="16" fill="url(#mcBg)" stroke="url(#mcFrame)" stroke-width="2"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00E5FF&icon_color=B388FF&text_color=c9c3e0" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00E5FF&text_color=c9c3e0" alt="Top Languages" height="165"/>
+  <!-- header bar -->
+  <rect x="0" y="0" width="1000" height="54" rx="16" fill="#0c0818"/>
+  <rect x="0" y="38" width="1000" height="16" fill="#0c0818"/>
+  <circle cx="30" cy="27" r="6" fill="#39FF14"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="48" y="33" font-family="Consolas, monospace" font-size="18" fill="#E0DAFF" letter-spacing="2">MISSION CONTROL — LIVE TELEMETRY</text>
+  <text x="970" y="33" font-family="Consolas, monospace" font-size="14" fill="#39FF14" text-anchor="end">● ONLINE</text>
 
-<br/>
+  <!-- stat cards row 1 -->
+  <g font-family="Consolas, monospace">
+    <!-- Repositories -->
+    <g transform="translate(30,84)">
+      <rect width="210" height="120" rx="12" fill="#0d0b1a" stroke="#7C4DFF" stroke-width="1.5" opacity="0.9"/>
+      <text x="20" y="34" font-size="13" fill="#B388FF" letter-spacing="1">REPOSITORIES</text>
+      <text x="20" y="86" font-size="46" fill="#00E5FF" filter="url(#mcGlow)">26</text>
+    </g>
+    <!-- Deployments -->
+    <g transform="translate(263,84)">
+      <rect width="210" height="120" rx="12" fill="#0d0b1a" stroke="#7C4DFF" stroke-width="1.5" opacity="0.9"/>
+      <text x="20" y="34" font-size="13" fill="#B388FF" letter-spacing="1">DEPLOYMENTS</text>
+      <text x="20" y="86" font-size="46" fill="#00E5FF" filter="url(#mcGlow)">15</text>
+    </g>
+    <!-- Certificates -->
+    <g transform="translate(496,84)">
+      <rect width="210" height="120" rx="12" fill="#0d0b1a" stroke="#7C4DFF" stroke-width="1.5" opacity="0.9"/>
+      <text x="20" y="34" font-size="13" fill="#B388FF" letter-spacing="1">CERTIFICATES</text>
+      <text x="20" y="86" font-size="46" fill="#00E5FF" filter="url(#mcGlow)">8</text>
+    </g>
+    <!-- AI Projects -->
+    <g transform="translate(729,84)">
+      <rect width="241" height="120" rx="12" fill="#0d0b1a" stroke="#7C4DFF" stroke-width="1.5" opacity="0.9"/>
+      <text x="20" y="34" font-size="13" fill="#B388FF" letter-spacing="1">AI PROJECTS</text>
+      <text x="20" y="86" font-size="46" fill="#00E5FF" filter="url(#mcGlow)">6</text>
+    </g>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=00E5FF&fire=B388FF&currStreakLabel=00E5FF" alt="GitHub Streak"/>
+    <!-- current mission panel -->
+    <g transform="translate(30,224)">
+      <rect width="940" height="140" rx="12" fill="#0d0b1a" stroke="url(#mcFrame)" stroke-width="1.5"/>
+      <text x="24" y="36" font-size="13" fill="#B388FF" letter-spacing="1">CURRENT MISSION</text>
+      <text x="24" y="72" font-size="26" fill="#E0DAFF">Learning AI Agents</text>
+      <rect x="24" y="92" width="700" height="10" rx="5" fill="#1a1530"/>
+      <rect x="24" y="92" width="410" height="10" rx="5" fill="url(#mcFrame)"/>
+      <text x="24" y="124" font-size="13" fill="#8a80b8">Progress: 58%</text>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-
-<br/>
-
-<!-- Snake Animation — generado automáticamente por GitHub Actions -->
-<!-- Ver Sección "snake.yml" para el workflow que lo genera -->
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+      <circle cx="880" cy="70" r="7" fill="#39FF14"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/></circle>
+      <text x="855" y="95" font-size="13" fill="#39FF14" text-anchor="end" letter-spacing="1">STATUS</text>
+      <text x="900" y="95" font-size="13" fill="#39FF14" text-anchor="end" letter-spacing="1">ONLINE</text>
+    </g>
+  </g>
+</svg>
 
 </div>
 
