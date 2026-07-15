@@ -166,7 +166,7 @@ Selecciona una opción [1-4]:
 ## 3.1 Certificaciones e Insignias
 
 <ul>
-<a href="https://learn.microsoft.com/es-es/users/iselalgarcia-7569/">Microsoft</a>
+<a href="https://learn.microsoft.com/es-es/users/iselalgarcia-7569/achievements">Microsoft</a>
 <br/>
 <a href="https://www.credly.com/users/isela-lopez-garcia/edit/badges/credly">Certificados GOOGLE/IBM/CISCO</a>
   <br/>
