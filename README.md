@@ -498,4 +498,86 @@ gantt
 
 <br/>
 
+## 📡 16 · Contacto
 
+<div align="center">
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/iselalgarcia/))
+[![YouTube]([https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@USERNAME](https://www.youtube.com/@lahechiceradelcodigo))
+[![GitHub](https://github.com/IselaDataMaven)
+
+
+</div>
+
+<br/>
+
+
+# 📡 La Hechicera del Código
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║          LA HECHICERA DEL CÓDIGO           ║
+╠══════════════════════════════════════════════════════════════╣
+║ STATUS        ● ONLINE                                      ║
+║ PROJECT       La Hechicera del Código                       ║
+║ TYPE          Educational Project                           ║
+║ MISSION       Compartir conocimiento tecnológico            ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+## 🌟 Un proyecto para compartir conocimiento
+
+**La Hechicera del Código** es un proyecto creado para compartir conocimiento, despertar la curiosidad y hacer que más personas descubran el mundo de la tecnología.
+
+Aquí encontrarás contenido sobre programación, inteligencia artificial, ingeniería de software, historia de la tecnología y experiencias construyendo proyectos reales, explicado de una manera cercana y accesible para toda la comunidad.
+
+---
+
+<div align="center">
+
+## ✨ Lema
+
+# **"FELIZ VIAJE HACIA EL CÓDIGO"** 🚀
+
+</div>
+
+---
+
+## 🌍 Sígueme
+
+<div align="center">
+
+<a href="[https://youtube.com/@TU_USUARIO](https://www.youtube.com/@lahechiceradelcodigo)">
+</a>
+
+<a href="[https://medium.com/@TU_USUARIO](https://medium.com/@lahechiceradelcodigo)">
+</a>
+
+<a href="[https://TU_BLOG.com](https://lahechiceracodigo.github.io)">
+</a>
+
+<a href="https://github.com/LaHechiceraCodigo">
+</a>
+
+<a href="[https://www.tiktok.com/@TU_USUARIO](https://www.tiktok.com/@lahechiceradelcodigo)">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Gracias por formar parte de esta comunidad.
+
+**¡FELIZ VIAJE HACIA EL CÓDIGO!** ✨
+
+</div>
+
+<sub>「 Diseñando inteligencia con propósito, un sistema a la vez. 」</sub>
+
+</div>
