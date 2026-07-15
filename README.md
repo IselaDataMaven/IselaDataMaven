@@ -39,10 +39,6 @@
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- ÍNDICE · TABLE OF CONTENTS                                    -->
-<!-- Navegación rápida por todos los módulos del sistema           -->
-<!-- ============================================================ -->
 
 <details>
 <summary><b>📂 system_index.map</b> — Tabla de contenidos (clic para expandir)</summary>
@@ -164,6 +160,15 @@ Selecciona una opción [1-4]:
 </details>
 
 <br/>
+
+<br/>
+
+## 3.1 Certificaciones e Insignias
+<a href="[url](https://learn.microsoft.com/es-es/users/iselalgarcia-7569/)">Microsoft</a>
+<a href="https://www.credly.com/users/isela-lopez-garcia/edit/badges/credly">Certificados GOOGLE/IBM/CISCO</a>
+<a href="[url](https://www.credly.com/users/isela-lopez-garcia/badges/credly)">link text</a>
+<a href="https://me.developers.google.com/u/me">GOOGLE IA</a>
+
 
 ## 📡 4 · Mission Brief
 
