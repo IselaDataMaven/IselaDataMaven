@@ -502,8 +502,7 @@ gantt
 
 <div align="center">
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/iselalgarcia/))
-[![YouTube]([https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@USERNAME](https://www.youtube.com/@lahechiceradelcodigo))
+[![LinkedIn]()](https://www.linkedin.com/in/iselalgarcia/)
 [![GitHub](https://github.com/IselaDataMaven)
 
 
