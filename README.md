@@ -164,11 +164,13 @@ Selecciona una opción [1-4]:
 <br/>
 
 ## 3.1 Certificaciones e Insignias
-<a href="[url](https://learn.microsoft.com/es-es/users/iselalgarcia-7569/)">Microsoft</a>
-<a href="https://www.credly.com/users/isela-lopez-garcia/edit/badges/credly">Certificados GOOGLE/IBM/CISCO</a>
-<a href="[url](https://www.credly.com/users/isela-lopez-garcia/badges/credly)">link text</a>
-<a href="https://me.developers.google.com/u/me">GOOGLE IA</a>
 
+<ul>
+<a href="(https://learn.microsoft.com/es-es/users/iselalgarcia-7569/">Microsoft</a>
+<a href="https://www.credly.com/users/isela-lopez-garcia/edit/badges/credly">Certificados GOOGLE/IBM/CISCO</a>
+<a href="https://www.credly.com/users/isela-lopez-garcia/badges/credly">link text</a>
+<a href="https://me.developers.google.com/u/me">GOOGLE IA</a>
+</ul>
 
 ## 📡 4 · Mission Brief
 
