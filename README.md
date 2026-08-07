@@ -247,18 +247,30 @@ status:        🟢 ACTIVE
 
 <div align="center">
 
-| Skill | Estado | Nivel |
-|:--|:--:|:--|
-| 🐍 Python | 🟢 Unlocked | `██████████` 100% |
-| 🐳 Docker | 🟢 Unlocked | `████████░░` 85% |
-| ☁️ Oracle Cloud | 🟢 Unlocked | `███████░░░` 70% |
-| 🤖 Machine Learning | 🟢 Unlocked | `█████████░` 90% |
-| ⚡ FastAPI | 🟢 Unlocked | `█████████░` 90% |
-| 👁️ Computer Vision | 🟡 In Progress | `█████░░░░░` 50% |
-| 🧠 LLMs | 🟡 In Progress | `██████░░░░` 60% |
-| 🔗 LangChain | 🟡 In Progress | `██████░░░░` 60% |
-| 🕸️ LangGraph | 🟡 In Progress | `████░░░░░░` 40% |
-| 🔌 MCP | 🔴 Locked | `░░░░░░░░░░` — |
+🌱 Foundations
+
+✅ Python
+✅ Git
+✅ Docker
+✅ SQL
+✅ Oracle Cloud
+
+──────────────
+
+🤖 AI Engineering
+
+✅ Machine Learning
+✅ FastAPI
+🟡 Computer Vision
+🟡 LLM Engineering
+
+──────────────
+
+🧠 Agentic AI
+
+🟡 LangChain
+🟡 LangGraph
+🔒 MCP
 
 </div>
 
