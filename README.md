@@ -215,34 +215,7 @@ status:        🟢 ACTIVE
 ## 🌳 6 · Skill Tree
 
 ```text
-                          ┌────────────────────────┐
-                          │      SKILL TREE          │
-                          │   EiAnstein OS v2.4.0     │
-                          └────────────┬─────────────┘
-                                       │
-   ══════════════════════════════ TIER 1 ══════════════════════════════
-   FOUNDATIONS
-   │
-   ├── [🟢 UNLOCKED]    Python              ▓▓▓▓▓▓▓▓▓▓  100%
-   ├── [🟢 UNLOCKED]    Docker              ▓▓▓▓▓▓▓▓░░   85%
-   └── [🟢 UNLOCKED]    Oracle Cloud        ▓▓▓▓▓▓▓░░░   70%
-                                       │
-   ══════════════════════════════ TIER 2 ══════════════════════════════
-   AI ENGINEERING
-   │
-   ├── [🟢 UNLOCKED]    Machine Learning    ▓▓▓▓▓▓▓▓▓░   90%
-   ├── [🟢 UNLOCKED]    FastAPI             ▓▓▓▓▓▓▓▓▓░   90%
-   ├── [🟡 IN PROGRESS] Computer Vision     ▓▓▓▓▓░░░░░   50%
-   └── [🟡 IN PROGRESS] LLMs                ▓▓▓▓▓▓░░░░   60%
-                                       │
-   ══════════════════════════════ TIER 3 ══════════════════════════════
-   AGENTIC SYSTEMS  (requiere Tier 2 completo)
-   │
-   ├── [🟡 IN PROGRESS] LangChain           ▓▓▓▓▓▓░░░░   60%
-   ├── [🟡 IN PROGRESS] LangGraph           ▓▓▓▓░░░░░░   40%
-   └── [🔴 LOCKED]       MCP                 ░░░░░░░░░░  0% — requiere LangGraph ≥ 70%
-```
-
+                        
 <br/>
 
 <div align="center">
